@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MobileBmstu"
 include(":app")
- 
+include(":addTodo")
