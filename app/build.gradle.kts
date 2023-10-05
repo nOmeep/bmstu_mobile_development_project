@@ -52,6 +52,7 @@ dependencies {
     implementation(Libraries.android)
     implementation(Libraries.compose)
     implementation(Libraries.coroutines)
+    implementation(project(":TodoList"))
 
     implementation(platform("androidx.compose:compose-bom:2023.08.00"))
 }
